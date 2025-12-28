@@ -49,7 +49,7 @@ SECRET=your_session_secret
 RAZORPAY_KEY_ID=rzp_test_XXXXXXXX
 RAZORPAY_KEY_SECRET=your_secret_key
 RAZORPAY_WEBHOOK_SECRET=your_webhook_secret_here
-OPENWEATHER_API_KEY=abc123def456ghi789jkl012mno345pq
+OPENWEATHER_API_KEY=your_api_key
 ```
 
 ## Troubleshooting
